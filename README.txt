@@ -8,7 +8,7 @@ Write a Program in Python which do following:-
 
 Assignment 2
 Write a Program in python which do following:-
-	a) Open url ie "https://security.gentoo.org/glsa/202008-20"
+	a) Open url i.e. "https://security.gentoo.org/glsa/202008-20"
 	b) serach for "Affected packages" 
 	c) Print affected version ie 9.52.
 
